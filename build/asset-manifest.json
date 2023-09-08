@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f38eef0.css",
+    "main.js": "/static/js/main.f02effc4.js",
+    "static/js/703.6ab3e922.chunk.js": "/static/js/703.6ab3e922.chunk.js",
+    "static/js/598.843d40c1.chunk.js": "/static/js/598.843d40c1.chunk.js",
+    "static/js/787.506dd8ed.chunk.js": "/static/js/787.506dd8ed.chunk.js",
+    "static/media/IMAGEN 2 SJN.jpg": "/static/media/IMAGEN 2 SJN.3bbff2fc4ed5f750f36c.jpg",
+    "static/media/CASADECULTURA.png": "/static/media/CASADECULTURA.cad5675c157f1d8b69f6.png",
+    "static/media/IMAGEN 1 SJN.jpg": "/static/media/IMAGEN 1 SJN.d07242323416233a6068.jpg",
+    "static/media/IMAGEN 3 SJN.jpeg": "/static/media/IMAGEN 3 SJN.dba89eeb87344916efaa.jpeg",
+    "index.html": "/index.html",
+    "main.8f38eef0.css.map": "/static/css/main.8f38eef0.css.map",
+    "main.f02effc4.js.map": "/static/js/main.f02effc4.js.map",
+    "703.6ab3e922.chunk.js.map": "/static/js/703.6ab3e922.chunk.js.map",
+    "598.843d40c1.chunk.js.map": "/static/js/598.843d40c1.chunk.js.map",
+    "787.506dd8ed.chunk.js.map": "/static/js/787.506dd8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f38eef0.css",
+    "static/js/main.f02effc4.js"
+  ]
+}
